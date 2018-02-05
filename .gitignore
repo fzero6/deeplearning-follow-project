@@ -39,3 +39,9 @@ Thumbs.db
 # File paths #
 ##############
 /Users/frankzerofsky/Documents/udacity_work/deeplearning-follow-project/data
+
+# Image file types #
+####################
+*.jpeg
+*.png
+
